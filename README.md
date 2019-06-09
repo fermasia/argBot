@@ -1,7 +1,12 @@
 # argBot
-Análisis de uso de bots en campañas políticas de Argentina en el 2019.
+_Análisis de uso de bots en twitter para campañas políticas de Argentina en el 2019._  
 
-Fernando Masiá
-Leandro Mousseaud
-Rodrigo Perelsztein
-Matías Nahuel González Fernández
+### Autores
+* Matías Nahuel González Fernández  
+* Fernando Masiá  
+* Leandro Mousseaud  
+* Rodrigo Perelsztein  
+
+### Proyecto base  
+Se tomó de base el modelo generado en el trabajo práctico N°3.  
+https://github.com/matiasngf/DH_proyecto_3
