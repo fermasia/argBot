@@ -6,3 +6,5 @@ twitterScraper/\.ipynb_checkpoints/
 \.ipynb_checkpoints/README-checkpoint\.md
 
 dataAnalysis/\.ipynb_checkpoints/
+
+modelo/catboost_info/
