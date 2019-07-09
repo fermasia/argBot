@@ -8,3 +8,7 @@ twitterScraper/\.ipynb_checkpoints/
 dataAnalysis/\.ipynb_checkpoints/
 
 modelo/catboost_info/
+
+datasets/TweetsDataset\.pkl
+
+datasets/TweetsScrapedUsers\.pkl
